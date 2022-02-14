@@ -4,7 +4,7 @@ func run(x)
 
 endf
 
-void main()
+func main()
 
   std:ln("Hello there");
 
