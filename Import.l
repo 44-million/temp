@@ -1,5 +1,5 @@
 func run(x) 
 
-  std:ln("Hello World);
+  std:ln("Hello World");
 
 endf
