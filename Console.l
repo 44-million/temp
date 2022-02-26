@@ -1,12 +1,12 @@
-func print(s)
+fn print(s)
   std:out(s);
 end
 
-func println(s)
+fn println(s)
   std:ln(s);
 end
 
-func prints(s)
+fn prints(s)
   std:out(s);
   std:out(" ");
 end
